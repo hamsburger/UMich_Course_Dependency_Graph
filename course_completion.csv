@@ -1,0 +1,38 @@
+course_number,course_name,status
+501,SIADS 501 - Being a Data Scientist,complete
+502,SIADS 502 - Math Methods I,in progress
+503,SIADS 503 - Data Science Ethics,complete
+505,SIADS 505 - Data Manipulation,complete
+511,SIADS 511 - SQL and Databases,in progress
+515,SIADS 515 - Efficient Data Processing,complete
+516,SIADS 516 - Big Data: Scalable Data Processing,incomplete
+521,SIADS 521 - Visual Exploration of Data,incomplete
+522,SIADS 522 - Information Visualization I,in progress
+523,SIADS 523 - Communicating Data Science Results,incomplete
+524,SIADS 524 - Presenting Uncertainty,incomplete
+532,SIADS 532 - Data Mining I,incomplete
+542,SIADS 542 - Supervised Learning,incomplete
+543,SIADS 543 - Unsupervised Learning,incomplete
+571,SIADS 571 - Business SQL,incomplete
+593,SIADS 593 - Milestone I,incomplete
+601,SIADS 601 - Qualitative Inquiry for Data Scientists,incomplete
+602,SIADS 602 - Math Methods II,incomplete
+611,SIADS 611 - Database Architecture & Technology,incomplete
+622,SIADS 622 - Information Visualization II,incomplete
+630,SIADS 630 - Causal Inference,incomplete
+631,SIADS 631 - Experiment Design and Analysis,incomplete
+632,SIADS 632 - Data Mining II,incomplete
+642,SIADS 642 - Deep Learning I,incomplete
+643,SIADS 643 - Machine Learning Pipelines,incomplete
+644,SIADS 644 - Reinforcement Learning Algorithms,incomplete
+652,SIADS 652 - Network Analysis,incomplete
+655,SIADS 655 - Applied Natural Language Processing,incomplete
+673,SIADS 673 - Cloud Computing,incomplete
+680,SIADS 680 - Learning Analytics and Educational Data Science,incomplete
+681,SIADS 681 - Health Analytics,incomplete
+682,SIADS 682 - Social Media Analytics,incomplete
+685,SIADS 685 - Search and Recommender Systems,incomplete
+687,SIADS 687 - Introduction to Sports Analytics,incomplete
+688,SIADS 688 - Data Science for Social Good,incomplete
+696,SIADS 696 - Milestone II,incomplete
+699,SIADS 699 - Capstone,incomplete

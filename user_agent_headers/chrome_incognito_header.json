@@ -1,0 +1,16 @@
+{
+    "Authority": "www.si.umich.edu",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Cache-Control": "max-age=0",
+    "Cookie": "__cf_bm=sgTZL11fx5.W.P9rFRqXSAfR.Tmar5RcNqLK3cuU3Fg-1705348409-1-ATQlJZ9l0c8nFaIajMAg1OOSOxIYPUBQwvHScF2m9mCSvpmbwA9TDkgWqNWFgbxOQ18uffcwRnHlQaQKA/DwdpI=; cf_clearance=zH4WAaibcpnmK8_jacATDYiJvvSMK1tdgZwdXtmaiUc-1705348409-1-ARycj2yx6fzVs8i5dJ5RRlSvndY6CBI4PftbMn4zVr7dXWfylGwXQE+Jp3DEky7jx4wHV2pnCnQzhWnQenPIbDw=; _ga_DWT3RZWQN2=GS1.1.1705348410.1.0.1705348410.60.0.0; _ga=GA1.1.178127765.1705348410",
+    "Sec-Ch-Ua": "\\\"Not_A Brand\\\";v=\\\"8\\\", \\\"Chromium\\\";v=\\\"120\\\", \\\"Google Chrome\\\";v=\\\"120\\\"",
+    "Sec-Ch-Ua-Mobile": "?1",
+    "Sec-Ch-Ua-Platform": "\\\"Android\\\"",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+    "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+}
